@@ -64,6 +64,7 @@ figure, header, nav, section, article, aside, footer, figcaption {
 .grid-item img {
   display: block;
   max-width: 100%;
+
 }
 
 .clearfix:after {
@@ -2100,4 +2101,11 @@ responsive
   form#contact {
     padding: 30px;
   }
+}
+/* My ew added */
+
+.SCOlogo{
+  /* width: 50% !important; */
+  width: 13% !important;
+  overflow: hidden !important;
 }
